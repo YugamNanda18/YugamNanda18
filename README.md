@@ -29,26 +29,29 @@ I'm a goal-oriented B.Tech student at Swami Keshvanand Institute of Technology, 
 ---
 🛠️ Projects:
 
-👉 1. Tic-Tac-Toe Game
+👉 1. Tic-Tac-Toe Game (C Language)
 
-• Developed a classic Tic-Tac-Toe game for two players using Python for the game logic and HTML/CSS for an interactive web version.
+• Developed a two-player console-based Tic-Tac-Toe game using the C programming language.
 
-• Designed a clean, responsive, and visually engaging interface using HTML5 and CSS3, ensuring intuitive user experience on both desktop and mobile screens.
+• Implemented turn-based gameplay logic, player input validation, win/draw condition checks, and replay functionality.
 
-• Implemented game state tracking, win/draw detection, and reset functionality for seamless replay.
+• Designed a clean and intuitive menu-driven interface within the terminal using formatted output for easy navigation.
 
-• Key Highlights: Demonstrated frontend development skills through dynamic board design, hover effects, and smooth transitions.
+• Key Highlights: Reinforced core C concepts like arrays, functions, and control structures while focusing on logic building and user-friendly terminal interaction.
 
 
-2. Flappy Bird Game
+---
 
-• Created a fully functional Flappy Bird clone using Python with Pygame for the core game engine, and HTML/CSS mockups to design layout references before coding.
+👉 2. Flappy Bird Game (Python + Pygame)
 
-• Crafted a visually appealing game UI with attention to button placements, background layering, and score display positioning.
+• Built a Flappy Bird clone using Python and the Pygame library, replicating the core mechanics of the popular arcade game.
 
-• Integrated smooth sprite animations, real-time gravity mechanics, and score tracking to replicate the original game’s feel.
+• Programmed realistic gravity, dynamic obstacle generation, collision detection, and score tracking.
 
-• Key Highlights: Applied UI/UX principles to design intuitive menus and gameplay interfaces, emphasizing visual consistency and playability.
+• Designed smooth animations, game loops, and keyboard-controlled bird movement to create an engaging gameplay experience.
+
+• Key Highlights: Strengthened game development skills through event handling, sprite management, and frame-based rendering using Pygame.
+
 
 
 
