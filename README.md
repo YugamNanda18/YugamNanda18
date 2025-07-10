@@ -59,7 +59,7 @@ I'm a goal-oriented B.Tech student at Swami Keshvanand Institute of Technology, 
 
 🎓 Education
 Swami Keshvanand Institute of Technology, Management & Gramothan (SKIT), Jaipur
-Bachelor of Technology in Electronics and Communication (2024–2028)
+Bachelor of Technology in Information Technology (2024–2028)
 
 
 ---
