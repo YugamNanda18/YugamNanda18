@@ -42,16 +42,6 @@ I'm a goal-oriented B.Tech student at Swami Keshvanand Institute of Technology, 
 
 ---
 
-👉 2. Flappy Bird Game (Python + Pygame)
-
-• Built a Flappy Bird clone using Python and the Pygame library, replicating the core mechanics of the popular arcade game.
-
-• Programmed realistic gravity, dynamic obstacle generation, collision detection, and score tracking.
-
-• Designed smooth animations, game loops, and keyboard-controlled bird movement to create an engaging gameplay experience.
-
-• Key Highlights: Strengthened game development skills through event handling, sprite management, and frame-based rendering using Pygame.
-
 
 
 
