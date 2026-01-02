@@ -39,8 +39,20 @@ I'm a goal-oriented B.Tech student at Swami Keshvanand Institute of Technology, 
 
 • Key Highlights: Reinforced core C concepts like arrays, functions, and control structures while focusing on logic building and user-friendly terminal interaction.
 
+<br>
 
----
+
+👉 2. Personal Portfolio Website 
+
+• Developed a modern, responsive personal portfolio with a component-driven structure and clean user interface.
+
+• Focused on performance, accessibility, and smooth navigation across different screen sizes and browsers
+
+• Deployed the application with automated builds and reliable hosting for continuous updates
+
+• Implemented reusable UI sections and interactive elements to improve maintainability and user experience
+
+----
 
 
 
@@ -48,7 +60,9 @@ I'm a goal-oriented B.Tech student at Swami Keshvanand Institute of Technology, 
 ---
 
 🎓 Education
+
 Swami Keshvanand Institute of Technology, Management & Gramothan (SKIT), Jaipur
+
 Bachelor of Technology in Information Technology (2024–2028)
 
 
