@@ -159,15 +159,15 @@ I enjoy designing products from scratch—from UI/UX to backend APIs—while fol
 |---------|------------|---------|
 | Prompt Engineering | ⭐⭐⭐⭐⭐ | Advanced prompting for production AI applications |
 | Gemini API | ⭐⭐⭐⭐⭐ | AI-powered resume analysis & interview preparation |
-| AI Integration | ⭐⭐⭐⭐☆ | Integrating LLMs into Full Stack applications |
+| AI Integration | ⭐⭐⭐⭐⭐ | Integrating LLMs into Full Stack applications |
 | PDF Parsing | ⭐⭐⭐⭐☆ | Automated document processing pipelines |
 | REST APIs | ⭐⭐⭐⭐⭐ | Secure API integrations |
 | Authentication | ⭐⭐⭐⭐⭐ | JWT Authentication & Authorization |
-| MongoDB | ⭐⭐⭐⭐☆ | Scalable NoSQL database design |
+| MongoDB | ⭐⭐⭐⭐⭐ | Scalable NoSQL database design |
 | React Development | ⭐⭐⭐⭐⭐ | Modern SPA Development |
 | Node.js | ⭐⭐⭐⭐⭐ | Backend Engineering |
 | Express.js | ⭐⭐⭐⭐⭐ | RESTful API Architecture |
-| System Design | ⭐⭐⭐⭐☆ | Scalable application architecture |
+| System Design | ⭐⭐⭐⭐⭐ | Scalable application architecture |
 
 ---
 
@@ -344,26 +344,6 @@ Enterprise Employee Management System developed during internship featuring atte
 
 ---
 
-# 📜 Certifications
-
-## Oracle
-
-Coming Soon
-
-## AWS
-
-Coming Soon
-
-## Cisco
-
-Coming Soon
-
-## NPTEL
-
-Coming Soon
-
-> *This section will be updated as new certifications are earned.*
-
 ---
 
 # 📚 Core Competencies
@@ -383,55 +363,6 @@ Coming Soon
 
 ---
 
-# 💻 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Practice-0F9D58?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Programming-2EC866?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Coding-5B4638?style=for-the-badge&logo=codechef"/>
-</a>
-
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YugamNanda18&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=YugamNanda18&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YugamNanda18&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YugamNanda18&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-
-</p>
 
 ---
 
@@ -445,13 +376,6 @@ Coming Soon
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YugamNanda18/YugamNanda18/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
 
 ---
 
