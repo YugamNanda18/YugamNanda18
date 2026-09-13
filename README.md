@@ -1,458 +1,100 @@
-<!-- ========================================================= -->
-<!--                    YUGAM NANDA README                      -->
-<!-- ========================================================= -->
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A11CB,50:7B2FF7,100:2575FC&text=Yugam%20Nanda&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=7B2FF7&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Engineer;AI+%7C+MERN+Developer;B.Tech+Information+Technology;Building+Scalable+Products;Open+Source+Enthusiast"/>
-</p>
-
-<p align="center">
-
-![](https://img.shields.io/badge/B.Tech-Information%20Technology-6A11CB?style=for-the-badge)
-
-![](https://img.shields.io/badge/CGPA-8.0%2F10-blueviolet?style=for-the-badge)
-
-![](https://img.shields.io/badge/Open%20To-Software%20Engineering-success?style=for-the-badge)
-
-![](https://img.shields.io/badge/Location-Jaipur,%20India-7B2FF7?style=for-the-badge)
-
-</p>
-
-<p align="center">
-
-<a href="https://yugamnanda.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6A11CB?style=for-the-badge&logo=googlechrome"/>
-</a>
-
-<a href="https://github.com/YugamNanda18">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/yugamnanda">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:yugamnanda.work@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
-<p align="center">
-
-![](https://komarev.com/ghpvc/?username=YugamNanda18&style=for-the-badge&color=blueviolet)
-
-![](https://img.shields.io/github/followers/YugamNanda18?style=for-the-badge)
-
-![](https://img.shields.io/github/stars/YugamNanda18?affiliations=OWNER&style=for-the-badge)
-
-</p>
-
----
-
-# 💼 About Me
-
-I am **Yugam Nanda**, a Full-Stack Software Engineer pursuing **B.Tech in Information Technology**.
-
-My primary focus is building scalable web applications powered by Artificial Intelligence, modern backend architectures, secure authentication systems and cloud-ready deployment pipelines.
-
-I enjoy designing products from scratch—from UI/UX to backend APIs—while following software engineering best practices.
-
-### Current Interests
-
-- Artificial Intelligence
-- MERN Stack Development
-- System Design
-- Backend Engineering
-- REST APIs
-- Prompt Engineering
-- Product Development
-
-### Open To
-
-- Software Engineering Internships
-- Full Stack Development
-- AI Engineering
-- Open Source Collaboration
-- Hackathons
-- Research Projects
-
----
-
-# 🚀 Tech Stack
-
-## Languages
+### Technology Matrix
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,py,nodejs,express,mongodb,mysql,redis,docker,react,tailwind,git,github,vercel,linux" />
 </p>
 
 ---
 
-## Frontend
+# 🚀 Flagship & Featured Production Projects
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=tailwind"/>
-
-</p>
-
----
-
-## Backend & Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=express"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-</p>
-
----
-
-## Cloud • DevOps • Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=vercel"/>
-
-<img src="https://skillicons.dev/icons?i=netlify"/>
-
-</p>
-
----
-
-# 🤖 AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---------|------------|---------|
-| Prompt Engineering | ⭐⭐⭐⭐⭐ | Advanced prompting for production AI applications |
-| Gemini API | ⭐⭐⭐⭐⭐ | AI-powered resume analysis & interview preparation |
-| AI Integration | ⭐⭐⭐⭐⭐ | Integrating LLMs into Full Stack applications |
-| PDF Parsing | ⭐⭐⭐⭐☆ | Automated document processing pipelines |
-| REST APIs | ⭐⭐⭐⭐⭐ | Secure API integrations |
-| Authentication | ⭐⭐⭐⭐⭐ | JWT Authentication & Authorization |
-| MongoDB | ⭐⭐⭐⭐⭐ | Scalable NoSQL database design |
-| React Development | ⭐⭐⭐⭐⭐ | Modern SPA Development |
-| Node.js | ⭐⭐⭐⭐⭐ | Backend Engineering |
-| Express.js | ⭐⭐⭐⭐⭐ | RESTful API Architecture |
-| System Design | ⭐⭐⭐⭐⭐ | Scalable application architecture |
-
----
-
-# 📈 Engineering Philosophy
-
-> Build software that is scalable, secure, maintainable, and user-centric. Every project should solve a real-world problem while maintaining clean architecture and engineering best practices.
-
----
-
-# 🚀 Featured Projects
-
-<details>
-<summary><b>🤖 HirePilotAI — AI Interview Preparation Platform</b></summary>
-
-### Overview
-
-HirePilotAI is an AI-powered interview preparation platform that analyzes resumes and generates personalized interview preparation roadmaps using Google's Gemini API.
-
-| Attribute | Details |
-|-----------|---------|
-| Stack | React.js, Node.js, Express.js, MongoDB, Gemini API |
-| Architecture | MERN |
-| Authentication | JWT |
-| AI Engine | Gemini API |
-| Performance | Optimized Resume Processing |
-| Repository | Coming Soon |
-
-### Key Features
-
-- AI Resume Analysis
-- Intelligent Interview Question Generation
-- Personalized Study Roadmap
-- PDF Resume Parsing
-- Resume Score Prediction
-- Modern Responsive Dashboard
-- Secure Authentication
-- Recruiter-Oriented Insights
-
-### Engineering Highlights
-
-- Built scalable REST APIs
-- Modular backend architecture
-- AI-powered processing pipeline
-- Clean React component architecture
-- Optimized MongoDB collections
-- Production-ready authentication
-
-</details>
-
----
-
-<details>
-
-<summary><b>🏥 Appointy — Smart Healthcare Appointment Platform</b></summary>
-
-### Overview
-
-A complete healthcare management platform connecting doctors, patients and administrators through secure appointment booking, payment integration and role-based dashboards.
-
-| Attribute | Details |
-|-----------|---------|
-| Stack | React.js, Node.js, Express.js, MongoDB |
-| Payment | Razorpay |
-| Security | JWT Authentication |
-| Database | MongoDB |
-| Architecture | MERN |
-| Repository | Coming Soon |
-
-### Key Features
-
-- Patient Dashboard
-- Doctor Dashboard
-- Admin Dashboard
-- Appointment Booking
-- Razorpay Integration
-- Authentication
-- Profile Management
-- Booking History
-- Responsive UI
-
-### Engineering Highlights
-
-- Secure Authentication
-- Role Based Access Control
-- RESTful API Design
-- Payment Gateway Integration
-- Scalable Database Schema
-- Clean Component Architecture
-
-</details>
-
----
-
-<details>
-
-<summary><b>🏢 Employee Management System</b></summary>
-
-### Overview
-
-Enterprise Employee Management System developed during internship featuring attendance management, leave approval workflow and secure authentication.
-
-| Attribute | Details |
-|-----------|---------|
-| Stack | MERN |
-| Authentication | JWT |
-| Dashboard | Admin & Employee |
-| Scale | Enterprise Ready |
-| Repository | Private |
-
-### Features
-
-- Attendance Tracking
-- Leave Management
-- Employee Profiles
-- Admin Controls
-- Secure Login
-- Reports
-
-</details>
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h3>🏛️ FLOWW (LedgerX) — Enterprise Institutional Ledger & Academic Platform</h3>
+      <p><b>Live Application:</b> <a href="https://floww-gamma-gilt.vercel.app">floww-gamma-gilt.vercel.app</a> | <b>Code:</b> <a href="https://github.com/YugamNanda18/Floww">github.com/YugamNanda18/Floww</a></p>
+      <p>A mission-critical enterprise fee management and academic governance platform designed with strict double-entry ledger mechanics and multi-tenant department segregation.</p>
+      <ul>
+        <li><b>Mathematical Accounting Invariant:</b> Enforced strict <code>Debit === Credit</code> ledger balance on every fee assessment and settlement transaction.</li>
+        <li><b>Idempotent Webhooks:</b> Integrated Razorpay webhook processing with SHA-256 HMAC verification and unique index constraints, preventing duplicate receipt generation during network retries.</li>
+        <li><b>Real-Time Multi-Service Synchronization:</b> Automated real-time cohort sync (Year, Semester, Branch, Batch) across MongoDB Atlas, Redis Cloud cache keys, and live operational rosters.</li>
+        <li><b>Distributed Queue Engine:</b> Orchestrated BullMQ workers backed by Redis for midnight recurring late-fee compounding and automated compliance reminders.</li>
+        <li><b>Zero-Trust 4-Tier RBAC:</b> Strict role boundaries separating Dean Superusers, Academic HODs, Finance Administrators, and Enrolled/Defaulter Students.</li>
+      </ul>
+      <p><b>Tech Stack:</b> <code>React (Vite)</code> <code>Node.js</code> <code>Express</code> <code>MongoDB Atlas</code> <code>Redis Cloud</code> <code>BullMQ</code> <code>Razorpay</code></p>
+    </td>
+    <td width="45%" valign="top">
+      <h3>🤖 HirePilotAI — AI Interview & Resume Intelligence Platform</h3>
+      <p>An intelligent career preparation engine that parses candidate resumes and generates customized mock interviews and technical roadmaps.</p>
+      <ul>
+        <li>Integrated Google Gemini API for multi-turn structured interview simulations.</li>
+        <li>Automated PDF parsing pipeline to extract candidate skills, experience, and domain strengths.</li>
+        <li>Built an interactive recruiter feedback dashboard with dynamic competency scoring.</li>
+        <li>Engineered low-latency REST endpoints with defensive rate limiting and JWT auth.</li>
+      </ul>
+      <p><b>Tech Stack:</b> <code>React.js</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Gemini AI API</code></p>
+      <hr/>
+      <h3>🏥 Appointy — Smart Healthcare Booking System</h3>
+      <p>Full-stack healthcare coordination platform connecting patients, doctors, and clinic admins.</p>
+      <ul>
+        <li>Concurrent appointment scheduling with collision avoidance.</li>
+        <li>Secure payment processing with automated invoice generation.</li>
+        <li>Dedicated medical records and audit dashboards per user tier.</li>
+      </ul>
+      <p><b>Tech Stack:</b> <code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Razorpay</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 # 💼 Professional Experience
 
-## Full Stack Web Developer Intern
+### **Full Stack Web Developer Intern** — *PSAR Communication Pvt. Ltd.*
+`May 2026 – June 2026` | `React, Node.js, Express, MongoDB, JWT, Agile`
+* Architected enterprise internal tooling using the MERN stack, replacing manual record keeping.
+* Automated attendance tracking and multi-level leave approvals, reducing HR operational overhead by **70%**.
+* Implemented stateless JWT authentication with encrypted session controls and role-based route guards.
+* Participated in sprint planning, code reviews, and API contract specifications following Agile best practices.
 
-**PSAR Communication Pvt. Ltd.**  
-**May 2026 – June 2026**
-
-### Responsibilities
-
-- Developed enterprise MERN applications
-- Built secure authentication using JWT
-- Automated HR attendance workflow
-- Implemented leave approval modules
-- Reduced manual HR effort by approximately **70%**
-- Collaborated with development team following Agile practices
-
-**Technologies**
-
-`React` `Node.js` `Express` `MongoDB` `JWT` `Git`
+### **Front-End Developer Intern** — *CODEXINTERN (Remote)*
+`November 2025 – December 2025` | `React.js, JavaScript, REST APIs, Tailwind CSS`
+* Developed 15+ reusable, accessibility-compliant React components adhering to modern design systems.
+* Integrated 10+ RESTful API endpoints and implemented optimistic UI updates, cutting perceived latency.
+* Diagnosed and resolved cross-browser rendering discrepancies across desktop and mobile viewports.
 
 ---
 
-## Front-End Developer Intern
+# 🏆 Technical Honors & Recognition
 
-**CODEXINTERN (Remote)**  
-**November 2025 – December 2025**
-
-### Responsibilities
-
-- Built reusable React components
-- Integrated 10+ REST APIs
-- Improved frontend response time
-- Fixed frontend-backend integration issues
-- Assisted deployment process
-- Enhanced user experience
-
-**Technologies**
-
-`React` `JavaScript` `REST API` `HTML` `CSS`
+* **J.P. Morgan Student Talent Community**: Selected into the competitive tech community for high-aptitude software engineering candidates.
+* **PayPal Career Academy**: Completed specialized career tracks in modern software development and engineering design.
+* **National Hackathons**: Finalist and participant in 3+ premier hackathons conducted by Indian Institutes of Technology (IITs).
+* **Competitive Problem Solving**: Active practitioner of algorithmic data structures (Arrays, Trees, Graphs, DP, Hash Maps) on LeetCode and HackerRank.
 
 ---
 
-# 🏆 Achievements
-
-| Recognition | Details |
-|-------------|---------|
-| J.P. Morgan Student Talent Community | Selected among aspiring technology students |
-| PayPal Career Academy | Software Engineering Career Program |
-| National Hackathons | Participated in 3+ hackathons hosted by IITs |
-| AI Projects | Built production-ready AI integrated applications |
-| MERN Development | Developed scalable full-stack applications |
-
----
-
----
-
-# 📚 Core Competencies
-
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- Operating Systems
-- Computer Networks
-- Software Engineering
-- REST API Development
-- Authentication & Authorization
-- AI Integration
-- Prompt Engineering
-- Full Stack Development
-- System Design
-
----
-
-
----
-
-# 📈 Contribution Activity
+# 📊 GitHub Activity & System Metrics
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YugamNanda18&theme=github-compact&hide_border=true&color=58A6FF" width="95%"/>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YugamNanda18&theme=tokyo-night&hide_border=true"/>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YugamNanda18&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=8B949E" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YugamNanda18&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" width="48%"/>
 </p>
 
 ---
 
+# 📬 Let's Connect & Collaborate
 
----
-
-# ⚡ Current Focus
-
-```yaml
-learning:
-  - Advanced Data Structures
-  - System Design
-  - Cloud Computing
-  - AI Engineering
-  - DevOps
-
-building:
-  - AI Powered SaaS Products
-  - Full Stack MERN Applications
-  - Open Source Projects
-
-exploring:
-  - Machine Learning
-  - LLM Applications
-  - Agentic AI
-  - Scalable Backend Systems
-
-open_to:
-  - Software Engineering Internship
-  - Full Time Opportunities
-  - Open Source Collaboration
-  - Hackathons
-```
-
----
-
-# 🌟 Highlights
-
-- 🚀 MERN Stack Developer
-- 🤖 AI Application Developer
-- 🔐 Secure Authentication Systems
-- 📦 REST API Specialist
-- ☁️ Cloud Deployment Enthusiast
-- 💡 Problem Solver
-- 📚 Lifelong Learner
-
----
-
-# 📬 Connect With Me
+* **Email**: [yugamnanda.work@gmail.com](mailto:yugamnanda.work@gmail.com)
+* **LinkedIn**: [linkedin.com/in/yugamnanda](https://linkedin.com/in/yugamnanda)
+* **Live Portfolio**: [yugamnanda.netlify.app](https://yugamnanda.netlify.app)
+* **GitHub**: [github.com/YugamNanda18](https://github.com/YugamNanda18)
 
 <p align="center">
-
-<a href="mailto:yugamnanda.work@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-yugamnanda.work@gmail.com-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://linkedin.com/in/yugamnanda">
-<img src="https://img.shields.io/badge/LinkedIn-Yugam%20Nanda-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/YugamNanda18">
-<img src="https://img.shields.io/badge/GitHub-YugamNanda18-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://yugamnanda.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6A11CB?style=for-the-badge&logo=googlechrome"/>
-</a>
-
-</p>
-
----
-
-# 💜 Quote
-
-> *"Building scalable software isn't just about writing code—it's about engineering solutions that create lasting impact."*
-
----
-
-<p align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:6A11CB,50:7B2FF7,100:2575FC"/>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0D1117,50:161B22,100:21262D"/>
 </p>
