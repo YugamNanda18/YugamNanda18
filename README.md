@@ -126,38 +126,70 @@ System Architecture Proficiencies:
 
 ---
 
-# 🤖 Additional Featured Projects
+# 🤖 Featured Software Engineering Projects
 
 <details open>
-<summary><b>🤖 HirePilotAI — AI Resume & Interview Intelligence System</b></summary>
+<summary><b>🤖 HirePilot-AI — AI Resume Parsing & Interview Intelligence System</b></summary>
 <br>
 
-* **Architecture:** Full-stack MERN with Google Gemini LLM API integration.
+* **One-Line Hook:** Full-stack GenAI job prep platform for AI mock interviews, resume parsing, skill gap analysis & ATS PDF creation.
+* **Architecture:** Production-ready full-stack MERN with Google Gemini LLM API integration.
 * **Resume Parsing Engine:** Automated PDF document extraction pipeline analyzing candidate competencies, tech stacks, and domain depth.
 * **Dynamic Mock Interviews:** Generates personalized, multi-turn technical questions and study roadmaps based on resume gaps.
-* **Security & Reliability:** Built with rate-limited REST endpoints, JWT authentication, and structured schema validations.
-* **Tech Stack:** `React.js`, `Node.js`, `Express.js`, `MongoDB`, `Gemini AI API`.
+* **Live Demo:** [hirepilot-ai-puwx.onrender.com](https://hirepilot-ai-puwx.onrender.com/) | **Repository:** [github.com/YugamNanda18/HirePilot-AI](https://github.com/YugamNanda18/HirePilot-AI)
+* **Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Google Gemini API` `Puppeteer` `Tailwind CSS` `JWT`
+</details>
+
+<details open>
+<summary><b>📊 FinSight (PaisaVedh) — Smart Personal Finance & Budget Analytics</b></summary>
+<br>
+
+* **One-Line Hook:** AI-driven personal finance & expense management app with cash flow forecasting, budget tracking & interactive analytics.
+* **Analytics Engine:** Real-time financial dashboard with spending pattern analysis, category breakdown, and financial health scoring.
+* **Goal & Budget Planning:** Monthly category budgets with utilization alerts, contribution tracking, and timeline projections.
+* **Repository:** [github.com/YugamNanda18/FinSight](https://github.com/YugamNanda18/FinSight)
+* **Tech Stack:** `React 18` `TypeScript` `Tailwind CSS` `Framer Motion` `Node.js` `Recharts`
 </details>
 
 <details>
-<summary><b>🏥 Appointy — Smart Healthcare Booking & Telehealth Platform</b></summary>
+<summary><b>🏢 StaffSync (Empify) — Enterprise Workforce Management System</b></summary>
 <br>
 
-* **Architecture:** React.js, Node.js, Express.js, MongoDB, Razorpay API.
-* **Collision-Free Scheduling:** Implemented atomic time-slot allocation to prevent double-booking across concurrent doctor calendars.
-* **Role-Based Portals:** Granular views for patients, medical practitioners, and hospital billing administrators.
-* **Automated Invoicing:** Real-time receipt and appointment confirmation delivery upon Razorpay transaction verification.
-* **Tech Stack:** `React.js`, `Node.js`, `Express.js`, `MongoDB`, `Razorpay`.
-</details>
-
-<details>
-<summary><b>🏢 Enterprise Employee Management System</b></summary>
-<br>
-
-* **Architecture:** MERN Stack with Role-Based Access Control.
+* **One-Line Hook:** Scalable Employee Management System (EMS) for workforce tracking, task allocation & role-based dashboard analytics.
 * **HR Workflow Automation:** Multi-tiered leave request approval pipelines with attendance tracking and automated shift scheduling.
-* **Security:** JWT authentication with role authorization middleware and session management.
-* **Tech Stack:** `React`, `Node.js`, `Express`, `MongoDB`, `JWT`.
+* **Security & Auth:** Built with JWT authentication, role authorization middleware, and session management.
+* **Live App:** [staffsync-frontend.onrender.com](https://staffsync-frontend.onrender.com) | **Repository:** [github.com/YugamNanda18/StaffSync](https://github.com/YugamNanda18/StaffSync)
+* **Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Tailwind CSS`
+</details>
+
+<details>
+<summary><b>🏥 Appointy — Smart Healthcare Booking & Slot Scheduling Platform</b></summary>
+<br>
+
+* **One-Line Hook:** Automated appointment booking & service scheduling portal with real-time slot availability & client management.
+* **Collision-Free Scheduling:** Implemented atomic time-slot allocation to prevent double-booking across concurrent doctor calendars.
+* **Automated Invoicing:** Real-time receipt and appointment confirmation delivery upon transaction verification.
+* **Repository:** [github.com/YugamNanda18/Appointy](https://github.com/YugamNanda18/Appointy)
+* **Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `REST API`
+</details>
+
+<details>
+<summary><b>🌾 MGNREGS_PORTAL — Public Rural Welfare Scheme Management Portal</b></summary>
+<br>
+
+* **One-Line Hook:** Public welfare portal streamlining rural employment scheme (MGNREGA) workflows, worker registration & wage status tracking.
+* **Citizen Workflow:** Responsive digital portal simplifying rural work applications, attendance logging, and transparent wage distribution status.
+* **Repository:** [github.com/YugamNanda18/MGNREGS_PORTAL](https://github.com/YugamNanda18/MGNREGS_PORTAL)
+* **Tech Stack:** `HTML5` `CSS3` `JavaScript` `Bootstrap 5` `Responsive Design`
+</details>
+
+<details>
+<summary><b>🌐 Interactive Portfolio — Developer Showcase & Case Studies</b></summary>
+<br>
+
+* **One-Line Hook:** Modern, responsive developer portfolio showcasing full-stack web applications, interactive UI components & project case studies.
+* **Live Website:** [yugamnanda.netlify.app](https://yugamnanda.netlify.app) | **Repository:** [github.com/YugamNanda18/portfolio](https://github.com/YugamNanda18/portfolio)
+* **Tech Stack:** `JavaScript` `React.js` `Tailwind CSS` `Framer Motion` `HTML5` `CSS3`
 </details>
 
 ---
