@@ -1,3 +1,8 @@
+Here is your updated, complete, and professionally formatted **GitHub Profile README**. 
+
+I have seamlessly integrated **FraudGuard AI** into your **Featured Software Engineering Projects** with full architectural details, live links, and technical highlights. You can copy and paste the markdown directly into your GitHub Profile repository (`YugamNanda18/YugamNanda18`):
+
+```markdown
 <!-- ========================================================= -->
 <!--                    YUGAM NANDA — SDE PORTFOLIO            -->
 <!-- ========================================================= -->
@@ -7,13 +12,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=7B2FF7&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Development+Engineer+(SDE);Distributed+Systems+%7C+MERN+%7C+AI+Engineering;Architecting+Double-Entry+Ledgers+%26+Cloud+Pipelines;B.Tech+Information+Technology+%7C+CGPA+8.0%2F10;Open+Source+Enthusiast+%26+3x+Hackathon+Finalist"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=7B2FF7&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Development+Engineer+(SDE);Distributed+Systems+%7C+AI+Engineering+%7C+MERN;Architecting+Multi-Agent+AI+Swarms+%26+Financial+Ledgers;B.Tech+Information+Technology+%7C+CGPA+8.0%2F10;Open+Source+Enthusiast+%26+3x+Hackathon+Finalist"/>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/yugamnanda"><img src="https://img.shields.io/badge/LinkedIn-Yugam%20Nanda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/YugamNanda18"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://floww-gamma-gilt.vercel.app"><img src="https://img.shields.io/badge/Flagship%20Live-FLOWW%20(LedgerX)-6A11CB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/YugamNanda18/FraudGuard"><img src="https://img.shields.io/badge/AI%20Swarm-FraudGuard-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
   <a href="https://yugamnanda.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Live%20Showcase-2575FC?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="mailto:yugamnanda.work@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
@@ -30,11 +36,12 @@
 
 # 👨‍💻 Executive Summary
 
-I am a **Software Development Engineer (SDE)** pursuing a **B.Tech in Information Technology (CGPA: 8.0/10)**, with strong foundations in **Data Structures, Algorithms, Distributed Systems, and System Architecture**.
+I am a **Software Development Engineer (SDE)** pursuing a **B.Tech in Information Technology (CGPA: 8.0/10)**, with strong foundations in **Data Structures, Algorithms, Distributed Systems, Multi-Agent AI Architectures, and System Engineering**.
 
 * 🏛️ **Flagship Engineering**: Architected and deployed **FLOWW (LedgerX)** — an institutional enterprise platform running live in production with a strict **double-entry general ledger (`Debit === Credit`)**, Redis BullMQ distributed queues, real-time cache warming, and idempotent Razorpay webhooks.
-* ⚡ **Production Systems**: Proven experience in containerization, CI/CD automation (Render, Vercel), high-throughput REST APIs, JWT authentication, and AI/LLM integration.
-* 🎯 **Objective**: Software Engineer (Full-Stack / Backend / Distributed Systems) in high-growth technology environments.
+* 🛡️ **AI & Autonomous Systems**: Developed **FraudGuard AI** — a Level 3 Multi-Agent AI platform orchestrating 6 specialized agents with LangGraph, Qdrant Vector RAG, and Groq Cloud LLMs for automated financial fraud detection, AML compliance, and AI red-teaming.
+* ⚡ **Production Systems**: Proven experience in containerization (Docker), CI/CD automation (Render, Vercel), high-throughput REST APIs (FastAPI, Node.js), JWT authentication, and AI/LLM integration.
+* 🎯 **Objective**: Software Engineer (Full-Stack / Backend / Distributed Systems / AI Systems) in high-growth technology environments.
 
 ---
 
@@ -74,19 +81,20 @@ I am a **Software Development Engineer (SDE)** pursuing a **B.Tech in Informatio
 
 | Domain | Technologies & Frameworks |
 |:---|:---|
-| **Core Languages** | <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,mysql&theme=dark" /> |
-| **Backend & Distributed Systems** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis&theme=dark" /> |
-| **Frontend & UI Engineering** | <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark" /> |
-| **Cloud, DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vercel&theme=dark" /> |
+| **Core Languages** | <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,mysql&theme=dark" /> |
+| **Backend, AI & Distributed Systems** | <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mongodb,redis&theme=dark" /> |
+| **Frontend & UI Engineering** | <img src="https://skillicons.dev/icons?i=nextjs,react,vite,tailwind,html,css&theme=dark" /> |
+| **Cloud, DevOps & AI Tools** | <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vercel&theme=dark" /> |
 
 </div>
 
 ```yaml
 System Architecture Proficiencies:
-  - Architecture: Microservices, Distributed Caching (Redis), Message Queues (BullMQ), WebSockets
-  - Data Integrity: Double-Entry Ledger Mechanics (Debit === Credit), Idempotent Payment Handlers
-  - Security: HMAC SHA-256 Signatures, Zero-Trust RBAC, JWT Rotation, HTTP-Only Cookie Sessions
-  - Databases: MongoDB Atlas (Aggregation, Unique Indices), MySQL, ACID Compliance
+  - Multi-Agent AI: LangGraph DAG Orchestration, RAG over Vector DBs (Qdrant), Tool Execution Sandboxing
+  - Microservices & Messaging: Distributed Caching (Redis), Message Queues (BullMQ), WebSockets, REST APIs
+  - Data Integrity & Ledgers: Double-Entry Ledger Mechanics (Debit === Credit), Idempotent Payment Handlers
+  - Security & Governance: Human-in-the-Loop (HITL), HMAC SHA-256 Signatures, JWT Rotation, OAuth2, RBAC
+  - Databases & Storage: MongoDB Atlas, MySQL, Qdrant Vector Engine, SQLite, ACID Compliance
 ```
 
 ---
@@ -127,6 +135,18 @@ System Architecture Proficiencies:
 ---
 
 # 🤖 Featured Software Engineering Projects
+
+<details open>
+<summary><b>🛡️ FraudGuard AI — Enterprise Multi-Agent Banking Fraud Detection & Red-Teaming Engine</b></summary>
+<br>
+
+* **One-Line Hook:** Production-grade Level 3 Autonomous Multi-Agent AI platform deploying 6 specialized AI agents (Donna, Harvey, Louis, Jessica, Mike, Rachel) with LangGraph orchestration, Qdrant vector RAG, and Groq LLMs.
+* **Multi-Agent Swarm Orchestration:** Stateful DAG execution engine managing real-time routing across Transaction Anomaly Detection (Harvey), AML/KYC Compliance (Louis), Fraud Network Graphs (Jessica), AI Red Teaming (Mike), and Data Pipelines (Rachel).
+* **Hybrid Vector RAG & Retrieval:** Qdrant vector database integration running BGE-M3 1024-dim embeddings and BM25 sparse hybrid ranking over 35,000+ financial regulations (BOE/SEPBLAC/FATF).
+* **Human-in-the-Loop (HITL) Security:** Gated approval workflows for high-risk red-teaming probes and automated Suspicious Activity Report (SAR) drafting.
+* **Live API Engine:** [fraudguard-api-e5j3.onrender.com](https://fraudguard-api-e5j3.onrender.com/docs) | **Repository:** [github.com/YugamNanda18/FraudGuard](https://github.com/YugamNanda18/FraudGuard)
+* **Tech Stack:** `FastAPI` `Next.js 14` `Python 3.11+` `LangGraph` `Qdrant Vector DB` `Groq AI (Llama 3)` `Docker` `Tailwind CSS` `JWT`
+</details>
 
 <details open>
 <summary><b>🤖 HirePilot-AI — AI Resume Parsing & Interview Intelligence System</b></summary>
@@ -215,10 +235,11 @@ System Architecture Proficiencies:
 
 ```
   Data Structures & Algorithms : Arrays, Hash Maps, Two-Pointers, Trees, Graphs, Dynamic Programming
-  System Design                : Scalability, Caching (Redis), Load Balancing, Message Queues (BullMQ)
-  Database Engineering         : ACID Transactions, Normalization, MongoDB Indexing, Schema Modeling
-  Networking & Security        : HTTPS, TCP/IP, CORS, HMAC Signatures, JWT Rotation, OWASP Basics
-  Engineering Methodologies    : Agile/Scrum, CI/CD, Object-Oriented Programming (OOP)
+  System Design & Architecture : Microservices, Caching (Redis), Load Balancing, Message Queues (BullMQ)
+  AI & Vector Search           : Multi-Agent Swarms (LangGraph), Vector DBs (Qdrant), RAG Pipelines, Groq LLMs
+  Database Engineering         : ACID Transactions, Double-Entry Invariants, MongoDB Indexing, Schema Design
+  Networking & Security        : HTTPS, TCP/IP, CORS, HMAC Signatures, JWT Rotation, OWASP Security
+  Engineering Methodologies    : Agile/Scrum, Docker Containerization, CI/CD Pipelines, OOP
 ```
 
 ---
@@ -227,15 +248,15 @@ System Architecture Proficiencies:
 
 ```yaml
 Current Deep-Dives:
-  - Advanced Distributed Systems & Consensus Algorithms
+  - Advanced Multi-Agent AI Swarms & Autonomous RAG Pipelines
+  - Distributed Systems & Consensus Algorithms
   - High-Throughput Event-Driven Microservices (Kafka / RabbitMQ)
   - Cloud-Native Orchestration (Kubernetes, AWS ECS)
-  - LLM Fine-Tuning & Production AI Agents
 
 Target Roles:
   - Software Development Engineer (SDE-1 / SWE)
   - Full-Stack Engineer / Backend Engineer
-  - Distributed Systems & Cloud Engineer
+  - Distributed Systems & AI Systems Engineer
 ```
 
 ---
@@ -247,6 +268,7 @@ Target Roles:
   <a href="https://linkedin.com/in/yugamnanda"><img src="https://img.shields.io/badge/LinkedIn-Yugam%20Nanda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/YugamNanda18"><img src="https://img.shields.io/badge/GitHub-YugamNanda18-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://floww-gamma-gilt.vercel.app"><img src="https://img.shields.io/badge/Live%20Project-FLOWW%20(LedgerX)-6A11CB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/YugamNanda18/FraudGuard"><img src="https://img.shields.io/badge/AI%20Project-FraudGuard%20AI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
   <a href="https://yugamnanda.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2575FC?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
@@ -255,3 +277,4 @@ Target Roles:
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:6A11CB,50:7B2FF7,100:2575FC"/>
 </p>
+```
